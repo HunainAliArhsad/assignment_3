@@ -1,0 +1,551 @@
+.d1{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230718/pngtree-vibrant-hats-and-red-headphones-on-a-3d-rendered-red-backdrop-image_3912261.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /*border: 1px solid black;*/
+    text-align: center;
+    position: relative;
+    
+    
+}
+
+#he1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+   }
+
+#he2{
+    font-size: 20px;
+    color: white;
+    font-weight: 10px;
+    text-align: center;
+    margin-left: 30px;
+   }
+.d2{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+}
+   #mus{
+    color: aliceblue;
+    margin-left: 20px;
+    
+    /*zindex-fixed:  1030;*/
+   }
+   .left{
+    text-align: left;
+    h2{
+        font-size: 15px;
+    }
+   }
+
+   #bu{
+    justify-content: right;
+   }
+   .hu{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+   }
+   .child1{
+    width:40%;
+    height: 50%;
+    position: absolute;
+    background-color: aqua;
+    right: 15%;
+    top: 20%;
+    background-image: url("https://mobirise.com/extensions/temperm5/music-artist/assets/images/image11-1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   }
+   
+   .child2{
+    width:40%;
+    height: 50%;
+    position: absolute;//bkp
+    top: 20%;  
+    left: 15%;
+    color: white;
+    padding-top: 200px;
+    
+   }
+   #hea1{
+    font-size: large ;
+    }
+#hea2{
+    font-size: small ;
+}
+
+.child3{
+    width:60%;
+    height: 30%;
+    position:absolute;
+    top: 85%;
+    bottom: 60;
+    left: 20%;
+    background-color: black;
+    text-align: center;
+
+   }
+   .ins1{
+     width: 100%%;
+     height: 50%;
+     background-color: black;
+    position: relative;
+    
+   }
+   #ins3{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    font-size: 250%;
+    font-weight: 200%;
+    color:white ;
+   }
+   #ins4{
+    width: 30%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    left: 70%;
+    top: 50%;
+    font-size: 250%;
+    font-weight: 200%;
+    color:white ;
+}
+#ins5{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    left: 25%;
+    top: 60%;
+    font-size: 150%;
+    font-weight: 200%;
+    color:white ;
+}
+#ins6{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    font-size: 250%;
+    font-weight: 200%;
+    color:white ;
+}
+   .ins2{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+    position: relative;
+    color: white;
+    font-size: 150%;
+    
+}
+#ins7{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+
+   }
+   #ins8{
+    width: 30%;
+    height: 100%;
+    background-color:black;
+    position: absolute;
+    left: 70%;
+    padding-left: 30px;
+}
+#ins9{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    left: 25%;
+}
+#ins10{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    left: 50%;
+    position: absolute;
+   
+}
+.d9{
+    width: 100%;
+    height: 85vh;
+    background-color: blue ;
+    position: relative;
+   
+}
+.pic1{
+    width: 50%;
+    height: 85vh;
+    background-color: black;
+    position:absolute;
+    /*position: relative;*/
+}
+.pic2{
+    width: 50%;
+    height: 85vh;
+    background-image: url("https://mobirise.com/extensions/temperm5/music-artist/assets/images/image10-1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position:absolute;
+    right: 0;
+    
+}
+.d12{
+    width: 100%;
+    height: 40vh;
+    background-color: white;
+}
+#insi1{
+    width:30%;
+    height: 40vh;
+    background-color: black;
+    margin-left: 35%;
+    margin-top: 30%;
+    color: white;
+}
+#insi2{
+    width: 100%;
+    height: 40%;
+    background-color: black;
+}
+#insi6{
+    font-size: 650%;
+    padding-left: 40px;
+}
+#insi3{
+    width: 100%;
+    height: 20%;
+    background-color:black;
+}
+#insi4{
+    width: 100%;
+    height: 25%;
+    background-color:black;
+}
+#insi5{
+    width: 100%;
+    height: 15%;
+    background-color:black;
+}
+#jmg{
+    font-size: 110%;
+    text-align: center;
+    padding-top: 10%;
+}
+#pa1{
+    font-size: medium;
+    text-align: center;
+   padding-top: 10%;
+}
+#pa3{
+    text-align: center;
+    font-size: small;
+    padding-top: 20px;
+    color: red;
+}
+#wh1{
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 90px;
+    font-size: 50px;
+}
+#wh2{
+    padding-left: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.d13{
+    width: 100%;
+    height: 110vh;
+    background-color: brown;
+    position: relative;
+}
+#do{
+    text-align: left;
+}
+#mu1{
+    font-size: 60px;
+    padding-left: 450px;
+    padding-top: 40px;
+    color: aliceblue;
+}
+#pa2{
+    color: white;
+}
+.d14{
+    width: 40%;
+    height: 40vh;
+    background-color: aqua;
+}
+.d15{
+    width: 55%;
+    height: 60%;
+    background-image: url("https://clipground.com/images/video-call-template-png-7.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    right: 20%;
+    top: 25%;
+}
+#bkp1{
+    width: 100%;
+    height: 65vh;
+}
+#mus2{
+    padding-left: 49%;
+    padding-top: 38%;
+    font-size: 20px;
+    color: gray;
+}
+#bu1{
+    margin-left: 46%;
+    margin-top: 10px;
+}
+.d16{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    position: relative;
+}
+#pic1{
+    width: 25%;
+    height: 80vh;
+    background-image: url("https://mobirise.com/extensions/temperm5/music-artist/assets/images/image3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    right: 37%;
+    top: 10%;
+    color: white;
+}
+#pic2{
+    width: 25%;
+    height: 80vh;
+    background-image: url("https://mobirise.com/extensions/temperm5/music-artist/assets/images/image2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    left: 7%;
+    top: 10%;
+    color: white;
+}
+
+#pic3{
+    width: 25%;
+    height: 80vh;
+    background-color: gold;
+    position: absolute;
+    right: 7%;
+    top: 10%;
+    background-image: url("https://mobirise.com/extensions/temperm5/music-artist/assets/images/image4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+#pi1{
+    width: 60%;
+    height: 40vh;
+   
+    margin-top: 35%;
+    margin-left: 15%;
+}
+#pi2{
+   width: 100%;
+   height:15vh;
+   
+}
+#pi3{
+    width: 130%;
+    height:15vh;
+    
+}
+#pi4{
+    width: 100%;
+   height:15vh;
+   
+}
+#f1{
+    font-size: 80px;
+    color: white;
+    padding-left: 90px;
+}
+#bm1{
+    font-size: 23px;
+}
+#bm2{
+    font-size: medium;
+    text-align: center;
+}
+#li1{
+ margin-left: 80px;
+}
+.d17{
+    width: 100%;
+    height: 100vh;
+    background-color: brown;
+    position: relative;
+    color: white;
+}
+#ue1{
+    padding-left: 30%;
+    padding-top: 2%;
+    font-size: 65px;
+}
+.d18{
+    width: 60%;
+    height:72vh;
+    
+    position: absolute;
+    right: 20%;
+}
+#d19{
+    width: 100%;
+    height: 18vh;
+  
+    position: relative;
+    border-bottom: solid 2px pink;
+}
+#d20{
+    width: 100%;
+    height: 18vh;
+    
+    
+}
+#d21{
+    width: 100%;
+    height: 18vh;
+    
+}
+#d22{
+    width: 100%;
+    height: 18vh;
+    
+}
+#d23{
+    width: 30%;
+    height: 18vh;
+   
+    position: absolute;
+    right: 0;
+    margin-top: 20px;
+}
+#d24{
+    width: 30%;
+    height: 18vh;
+   
+    position: absolute;
+    right: 35%;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+    font-weight: 100px;
+    margin-top: 20px;
+}
+#d25{
+    width: 30%;
+    height: 18vh;
+    
+    position: absolute;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+    font-weight: 100px;
+    margin-top: 20px;
+}
+#d26{
+ margin-top: 20px;
+ font-size: 25px;
+ font-weight: 100px;
+}
+.d27{
+    width: 100%;
+    height: 90vh;
+    
+    position: relative;
+}
+#d30{
+    width: 100%;
+    height: 40vh;
+    
+    position: absolute;
+}
+#d30{
+    width: 100%;
+    height: 50vh;
+    
+    position: absolute;
+    top: 40%;
+}
+#d32{
+    width: 132%;
+    height: 100vh;
+    background-image: url("https://media.istockphoto.com/id/1053174168/photo/singing-singer-on-concert.jpg?s=612x612&w=0&k=20&c=Z2KyNXybj6CoA_-uCvxg6UF7GYtEnVO-6G4CZ7QySW0=");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    
+}
+#d33{
+    width: 42%; 
+    height: 100vh;
+    background-image: url("data:image/jpeg;base64,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");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    position: absolute;
+    left: -40%;
+}
+#d34{
+    width: 40%;
+    height: 40vh;
+   
+    position: absolute ;
+    top: 30%;
+    right: 30%;
+}
+#fj1{
+    text-align: center;
+    font-size: larger;
+}
+#fj2{
+    text-align: center;
+    font-size: 60px;
+}
+#fj3{
+    text-align: center;
+    font-size: 50px;
+}
+#fj4{
+    width: 100%;
+    height: 35%;
+    
+    padding-left: 200px;
+}
+#ico1{
+    font-size: 70%;
+}
+#icp1{
+    width: 70%;
+    height: 13vh;
+    
+    font-size: 40px;
+}
